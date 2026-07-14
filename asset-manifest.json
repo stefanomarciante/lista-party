@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/lista-party/static/css/main.e8cf7540.css",
-    "main.js": "/lista-party/static/js/main.b00c5296.js",
+    "main.js": "/lista-party/static/js/main.ac7137a4.js",
     "static/js/453.d24c3b1b.chunk.js": "/lista-party/static/js/453.d24c3b1b.chunk.js",
     "static/media/locandina.jpg": "/lista-party/static/media/locandina.96dda531eacc128cfd25.jpg",
     "index.html": "/lista-party/index.html",
     "main.e8cf7540.css.map": "/lista-party/static/css/main.e8cf7540.css.map",
-    "main.b00c5296.js.map": "/lista-party/static/js/main.b00c5296.js.map",
+    "main.ac7137a4.js.map": "/lista-party/static/js/main.ac7137a4.js.map",
     "453.d24c3b1b.chunk.js.map": "/lista-party/static/js/453.d24c3b1b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8cf7540.css",
-    "static/js/main.b00c5296.js"
+    "static/js/main.ac7137a4.js"
   ]
 }
